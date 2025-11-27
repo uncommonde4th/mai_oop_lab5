@@ -1,0 +1,1 @@
+/usr/bin/g++-14  -Werror=maybe-uninitialized -Wl,--dependency-file=CMakeFiles/lab5_exe.dir/link.d CMakeFiles/lab5_exe.dir/src/main.cpp.o -o lab5_exe

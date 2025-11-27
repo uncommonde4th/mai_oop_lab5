@@ -1,0 +1,1 @@
+/usr/bin/g++-14  -Werror=maybe-uninitialized -Wl,--dependency-file=CMakeFiles/tests.dir/link.d CMakeFiles/tests.dir/test/test1.cpp.o -o tests  lib/libgtest_main.a lib/libgtest.a -lpthread
